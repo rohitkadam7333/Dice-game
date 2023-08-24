@@ -88,3 +88,10 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+@media only screen and (max-width: 1329px){
+  body {
+    background-image: none;
+    background-color: black;
+  }
+}
